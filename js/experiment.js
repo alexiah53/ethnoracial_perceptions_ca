@@ -231,6 +231,7 @@ $("#attention_check").show();
 
 
 			if  (
+				!$("#age").val() |
        !heritage_country_value |
        !english_acquisition_age_value |
 		  !$("#current_region").val() |
